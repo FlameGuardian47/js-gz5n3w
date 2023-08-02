@@ -1,0 +1,10 @@
+body{
+  background-image:url(https://tse2.mm.bing.net/th?id=OIP.s9jsMU9edbnPUgZo4LaA5QHaEK&pid=Api&P=0&h=180);
+}
+div{
+  border-style: double;
+  background-color: aquamarine;
+  text-align: center;
+  max-width: 400px;
+  margin: auto;
+}
